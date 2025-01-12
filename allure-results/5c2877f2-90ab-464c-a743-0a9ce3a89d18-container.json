@@ -1,0 +1,1 @@
+{"uuid":"5c2877f2-90ab-464c-a743-0a9ce3a89d18","name":"restassured","children":["3c18d4a0-d2e8-4290-b30a-a1ded3a87bc1"],"befores":[{"name":"testSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736672433049,"stop":1736672433359}],"afters":[],"start":1736672433026,"stop":1736672436696}

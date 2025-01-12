@@ -1,0 +1,1 @@
+{"uuid":"23f31076-03fb-47f7-ade6-92aa8871cdd5","name":"restfulbooker.RestfulBookerE2ETests","children":["3c18d4a0-d2e8-4290-b30a-a1ded3a87bc1"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736672433383,"stop":1736672434050}],"afters":[],"start":1736672433027,"stop":1736672436705}
